@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Speaks\Speaks\bin\Debug\Speaks.exe.config
+C:\Users\User\source\repos\Speaks\Speaks\bin\Debug\Speaks.exe
+C:\Users\User\source\repos\Speaks\Speaks\bin\Debug\Speaks.pdb
+C:\Users\User\source\repos\Speaks\Speaks\obj\Debug\Speaks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Speaks\Speaks\obj\Debug\Speaks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Speaks\Speaks\obj\Debug\Speaks.exe
+C:\Users\User\source\repos\Speaks\Speaks\obj\Debug\Speaks.pdb
